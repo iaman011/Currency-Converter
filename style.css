@@ -8,7 +8,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f4e4ba;
+    background-color: #CD5C5C;
   }
   
   .container {
@@ -21,6 +21,10 @@
   
   form {
     margin: 2rem 0 1rem 0;
+  }
+
+  p{
+    font-size: 20px;
   }
   
   form select,
@@ -71,6 +75,7 @@
   
   .msg {
     margin: 2rem 0 2rem 0;
+    font-size: 20px;
   }
   
   form button {
